@@ -1,10 +1,8 @@
-# Hi, I'm Muhammad Abdul Rehman 👋
+# Hi there, I'm Muhammad Abdul Rehman 👋
 
-### Full-Stack Developer | Software Engineering Student | Open to Internship Opportunities
+## Full-Stack Developer
 
-I'm a Software Engineering student at **COMSATS University Islamabad, Lahore Campus** with a passion for building scalable web applications and solving real-world problems through software.
-
-I enjoy working across the full stack and continuously improving my skills by building practical projects.
+I build modern web applications using React, Next.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas into scalable, production-ready software with clean architecture and intuitive user experiences.
 
 ---
 
@@ -45,11 +43,11 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
 ## 📦 Smart Asset Tracking System (SATS)
 
-A full-stack asset management platform built for tracking organizational assets.
+Enterprise-inspired asset management platform designed to streamline asset tracking and administration.
 
 **Tech Stack**
 - Next.js
@@ -59,66 +57,66 @@ A full-stack asset management platform built for tracking organizational assets.
 - MongoDB
 - JWT Authentication
 
-### Features
-- Asset Management
-- User Management
+**Highlights**
+- Asset & User Management
 - Asset Movement History
-- Authentication & Authorization
+- Role-Based Authentication
 - Analytics & Reporting
+- Responsive Dashboard
 
 ---
 
-## 📚 Study Time Tracker
+## 🔥 StreakFlow
 
-A productivity application that helps users track study sessions and monitor progress.
+A productivity platform focused on habit tracking, streak management, and personal growth.
 
 **Tech Stack**
-- Python
+- Next.js
+- React.js
+- Node.js
+- MongoDB
+
+**Highlights**
+- Authentication
+- Habit Tracking
+- Daily Streaks
+- Progress Analytics
+- Modern Responsive UI
+
+---
+
+## 🏡 HomeStay
+
+Vacation rental platform inspired by Airbnb.
+
+**Tech Stack**
 - Django
+- Python
 - SQLite
 
 ---
 
-## 🏡 HomeStay Vacation Rental Platform
-
-A web application inspired by Airbnb for listing and booking vacation properties.
-
-**Tech Stack**
-- Django
-- Python
-- SQLite
-
----
-
-# Currently Learning
+# 🌱 Currently Exploring
 
 - Artificial Intelligence
 - System Design
 - Cloud Computing
 - Docker
 - CI/CD
+- Software Architecture
 
 ---
 
-# Looking For
+# 📫 Connect With Me
 
-I'm currently looking for:
+📧 **Email**  
+**mabdulrehman0221@gmail.com**
 
-- Software Engineering Internship
-- Full-Stack Developer Internship
-- Frontend Developer Internship
-- Junior Software Engineer Role
-
----
-
-## Connect With Me
-
-📧 Email: mabdulrehman0221@gmail.com
-
-💼 LinkedIn:
+💼 **LinkedIn**  
 https://linkedin.com/in/muhammad-abdul-rehman-7b34b1288
 
 
+
 ---
 
-⭐ Thanks for visiting my profile!
+> *"Great software isn't just written—it's designed, refined, and continuously improved."*
