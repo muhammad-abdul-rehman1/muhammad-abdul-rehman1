@@ -73,9 +73,9 @@ A full-stack asset management platform built for tracking organizational assets.
 A productivity application that helps users track study sessions and monitor progress.
 
 **Tech Stack**
-- Next.js
-- Node.js
-- MongoDB
+- Python
+- Django
+- SQLite
 
 ---
 
@@ -113,13 +113,11 @@ I'm currently looking for:
 
 ## Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: mabdulrehman0221@gmail.com
 
 💼 LinkedIn:
 https://linkedin.com/in/muhammad-abdul-rehman-7b34b1288
 
-🌐 Portfolio:
-Coming Soon
 
 ---
 
