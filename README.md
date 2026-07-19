@@ -1,122 +1,41 @@
-# Hi there, I'm Muhammad Abdul Rehman 👋
+# Muhammad Abdul Rehman
 
-## Full-Stack Developer
+Full-stack developer based in Lahore. I build web apps end-to-end — from database schema to UI — and care a lot about keeping things clean and maintainable.
 
-I build modern web applications using React, Next.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas into scalable, production-ready software with clean architecture and intuitive user experiences.
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- C++
-- SQL
-
-### Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-### Databases
-- MongoDB
-- MySQL
-- Firebase
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- Vercel
+Currently studying Software Engineering at COMSATS University Islamabad (Lahore Campus, 2023–2027) while working on real projects in parallel.
 
 ---
 
-# 🌟 Featured Projects
+## What I'm working with
 
-## 📦 Smart Asset Tracking System (SATS)
-
-Enterprise-inspired asset management platform designed to streamline asset tracking and administration.
-
-**Tech Stack**
-- Next.js
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-
-**Highlights**
-- Asset & User Management
-- Asset Movement History
-- Role-Based Authentication
-- Analytics & Reporting
-- Responsive Dashboard
+**Day-to-day:** React, Next.js, Node.js, Express, MongoDB, TypeScript  
+**Also use:** Python, MySQL, Firebase, Tailwind CSS  
+**Tools:** Git, Postman, Vercel, VS Code
 
 ---
 
-## 🔥 StreakFlow
+## Projects
 
-A productivity platform focused on habit tracking, streak management, and personal growth.
+### [Smart Asset Tracking System (SATS)](https://github.com/muhammad-abdul-rehman1)
+Asset management platform built for university environments. Handles asset lifecycles, movement history, and role-based access for different user types.  
+`Next.js` `Node.js` `MongoDB` `JWT`
 
-**Tech Stack**
-- Next.js
-- React.js
-- Node.js
-- MongoDB
+### [StreakFlow](https://github.com/muhammad-abdul-rehman1)
+Habit tracker with streak management and progress analytics. Built to actually keep people accountable, not just log data.  
+`Next.js` `Node.js` `MongoDB`
 
-**Highlights**
-- Authentication
-- Habit Tracking
-- Daily Streaks
-- Progress Analytics
-- Modern Responsive UI
+### [HomeStay](https://github.com/muhammad-abdul-rehman1)
+Vacation rental platform. My first serious dive into Django — ended up learning a lot about relational data modeling.  
+`Django` `Python` `SQLite`
 
 ---
 
-## 🏡 HomeStay
+## Currently learning
 
-Vacation rental platform inspired by Airbnb.
-
-**Tech Stack**
-- Django
-- Python
-- SQLite
+Docker, CI/CD, and system design. Also exploring how AI tooling fits into real dev workflows.
 
 ---
 
-# 🌱 Currently Exploring
+## Get in touch
 
-- Artificial Intelligence
-- System Design
-- Cloud Computing
-- Docker
-- CI/CD
-- Software Architecture
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**  
-**mabdulrehman0221@gmail.com**
-
-💼 **LinkedIn**  
-https://linkedin.com/in/muhammad-abdul-rehman-7b34b1288
-
-
-
----
-
-> *"Great software isn't just written—it's designed, refined, and continuously improved."*
+[mabdulrehman0221@gmail.com](mailto:mabdulrehman0221@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-abdul-rehman-7b34b1288) · [GitHub](https://github.com/muhammad-abdul-rehman1)
