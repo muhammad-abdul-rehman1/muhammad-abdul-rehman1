@@ -20,7 +20,7 @@ Currently studying Software Engineering at COMSATS University Islamabad (Lahore 
 Asset management platform built for university environments. Handles asset lifecycles, movement history, and role-based access for different user types.  
 `Next.js` `Node.js` `MongoDB` `JWT`
 
-### [StreakFlow](https://github.com/muhammad-abdul-rehman1)
+### [StreakFlow](https://streakflow-mocha.vercel.app/)
 Habit tracker with streak management and progress analytics. Built to actually keep people accountable, not just log data.  
 `Next.js` `Node.js` `MongoDB`
 
