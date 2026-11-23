@@ -16,7 +16,7 @@ Currently studying Software Engineering at COMSATS University Islamabad (Lahore 
 
 ## Projects
 
-### [Smart Asset Tracking System (SATS)](https://github.com/muhammad-abdul-rehman1)
+### [Smart Asset Tracking System (SATS)](sats-webapp.pages.dev/)
 Asset management platform built for university environments. Handles asset lifecycles, movement history, and role-based access for different user types.  
 `Next.js` `Node.js` `MongoDB` `JWT`
 
