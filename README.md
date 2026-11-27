@@ -17,16 +17,24 @@ Currently studying Software Engineering at COMSATS University Islamabad (Lahore 
 ## Projects
 
 ### [Smart Asset Tracking System (SATS)](https://sats-webapp.pages.dev/)
+
 Asset management platform built for university environments. Handles asset lifecycles, movement history, and role-based access for different user types.  
 `Next.js` `Node.js` `MongoDB` `JWT`
 
 ### [StreakFlow](https://streakflow-mocha.vercel.app/)
+
 Habit tracker with streak management and progress analytics. Built to actually keep people accountable, not just log data.  
 `Next.js` `Node.js` `MongoDB`
 
-### [HomeStay](https://github.com/muhammad-abdul-rehman1)
-Vacation rental platform. My first serious dive into Django — ended up learning a lot about relational data modeling.  
-`Django` `Python` `SQLite`
+### [CampusQuest](https://campusquest-delta.vercel.app/)
+
+Gamified learning platform designed to make learning more engaging through interactive learning experiences, gamification, and progress tracking.  
+`Web Development` `Gamification` `Database Design`
+
+### [Focusly](https://focusly-self.vercel.app/)
+
+Focus and productivity platform designed to help users manage their study sessions, stay focused, and organize their learning workflow.  
+`Next.js` `Prisma` `PostgreSQL`
 
 ---
 
